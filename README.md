@@ -39,4 +39,8 @@ GoOGLE SEARCH: dimension reduction using hidden layers
 types of bias in machine learning
 ```
 
+:no_entry: :no_entry: :no_entry: :no_entry: :no_entry: :no_entry: :no_entry:
 
+:heavy_check_mark: **[The 25 Best Data Science and Machine Learning GitHub Repositories from 2018](https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/)**
+
+:heavy_check_mark: **[11 most read Deep Learning Articles from Analytics Vidhya in 2017](https://www.analyticsvidhya.com/blog/2017/12/11-deep-learning-analytics-vidhya-2017/)**
