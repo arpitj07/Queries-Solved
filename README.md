@@ -20,10 +20,23 @@
 
  - [] **[A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)**
   ```
-  bayesian optimization machine learning
+  GOOGLE SEARCH: bayesian optimization machine learning
   ```
   
   - [] **[Understanding Hyperparameters and its Optimisation techniques](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568)**
   ```
-  hyperparameter optimization techniques
+  GOOGLE SEARCH: hyperparameter optimization techniques
   ```
+
+- **[Dimensionality Reduction w/ Neural Nets](https://medium.com/@tomas.bouda/dimensionality-reduction-w-neural-nets-ddeeab548f12)**
+```
+GoOGLE SEARCH: dimension reduction using hidden layers
+```
+
+- **[AI Ethics Resources](https://www.fast.ai/2018/09/24/ai-ethics-resources/)**
+- **[Preventing Machine Learning Bias](https://towardsdatascience.com/preventing-machine-learning-bias-d01adfe9f1fa)**
+```
+types of bias in machine learning
+```
+
+
