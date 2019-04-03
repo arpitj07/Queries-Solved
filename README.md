@@ -1,5 +1,7 @@
 # Queries-Solved
 
+## 3rd April 2019
+
 - [x] **[What exactly is meant by shared weights in convolutional neural network?](https://www.quora.com/What-exactly-is-meant-by-shared-weights-in-convolutional-neural-network)**
 
 - [x] **[How do I train weights of filters in convolutional layers in Convolutional Neural Network?](https://www.quora.com/How-do-I-train-weights-of-filters-in-convolutional-layers-in-Convolutional-Neural-Network)**
@@ -12,3 +14,16 @@
 
 
 - [x] **[How is a convolutional neural network able to learn invariant features?](https://qr.ae/TW1UAg)**
+
+
+## 4th April 2019
+
+ - [] **[A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)**
+  ```
+  bayesian optimization machine learning
+  ```
+  
+  - [] **[Understanding Hyperparameters and its Optimisation techniques](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568)**
+  ```
+  hyperparameter optimization techniques
+  ```
