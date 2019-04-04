@@ -18,12 +18,12 @@
 
 ## 4th April 2019
 
- - [] **[A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)**
+ - **[A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)**
   ```
   GOOGLE SEARCH: bayesian optimization machine learning
   ```
   
-  - [] **[Understanding Hyperparameters and its Optimisation techniques](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568)**
+  - **[Understanding Hyperparameters and its Optimisation techniques](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568)**
   ```
   GOOGLE SEARCH: hyperparameter optimization techniques
   ```
@@ -45,9 +45,11 @@ types of bias in machine learning
 
 :heavy_check_mark: **[11 most read Deep Learning Articles from Analytics Vidhya in 2017](https://www.analyticsvidhya.com/blog/2017/12/11-deep-learning-analytics-vidhya-2017/)**
 
+:heavy_check_mark: **[Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0)**
+
 
 #Papers :page_with_curl:
 
 :page_with_curl: **[DROPOUT](https://www.cs.toronto.edu/~hinton/absps/dropout.pdf)**
 
-:page_with_curl: **[]()**
+:page_with_curl: 
