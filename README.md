@@ -73,7 +73,21 @@
 # Image Segmentation
 
 <details>
+  
  :heavy_check_mark: **[Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques(Part-1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
   
 :heavy_check_mark: **[Image Segmentation using Python’s scikit-image module.](https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980)**  
 </details>  
+
+
+# Interview 
+
+<details>
+  
+ :heavy_check_mark: **[12 Frequently Asked Questions on Deep Learning (with their answers)!](https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/)**
+ 
+ :heavy_check_mark: **[The Most Comprehensive Data Science & Machine Learning Interview Guide You’ll Ever Need](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)**
+ 
+ :heavy_check_mark: **[Ace Data Science Interview](https://courses.analyticsvidhya.com/courses/take/ace-data-science-interviews/lessons/5931762-overview-7-step-process)**
+ 
+</details>
