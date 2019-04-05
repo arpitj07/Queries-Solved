@@ -1,6 +1,6 @@
 # Queries-Solved
 
-## 3rd April 2019
+#### 3rd April 2019
 
 <details>
   <summary>View Details</summary>
@@ -20,7 +20,7 @@
 
 </details>
 
-## 4th April 2019
+#### 4th April 2019
 
 <details>
   <summary>View Details</summary>
@@ -56,8 +56,15 @@
 
 </details>
 
-#Papers :page_with_curl:
+### Papers :page_with_curl:
 
 :page_with_curl: **[DROPOUT](https://www.cs.toronto.edu/~hinton/absps/dropout.pdf)**
 
-:page_with_curl: 
+#### 5th April 2019
+
+<details>
+  <summary>view details</summary>
+  
+  :heavy_check_mark: **[How to Prepare for a Machine Learning Interview](https://semanti.ca/blog/?how-to-prepare-for-a-machine-learning-interview)**
+  
+ <details>
