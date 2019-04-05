@@ -67,4 +67,13 @@
   
   :heavy_check_mark: **[How to Prepare for a Machine Learning Interview](https://semanti.ca/blog/?how-to-prepare-for-a-machine-learning-interview)**
   
- <details>
+ </details>
+
+
+# Image Segmentation
+
+<details>
+ :heavy_check_mark: **[Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques(Part-1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
+  
+:heavy_check_mark: **[Image Segmentation using Python’s scikit-image module.](https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980)**  
+</details>  
