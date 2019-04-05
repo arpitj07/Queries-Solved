@@ -2,6 +2,9 @@
 
 ## 3rd April 2019
 
+<details>
+ <summary>View Details</summary>
+
 - [x] **[What exactly is meant by shared weights in convolutional neural network?](https://www.quora.com/What-exactly-is-meant-by-shared-weights-in-convolutional-neural-network)**
 
 - :no_entry: **[How do I train weights of filters in convolutional layers in Convolutional Neural Network?](https://www.quora.com/How-do-I-train-weights-of-filters-in-convolutional-layers-in-Convolutional-Neural-Network)**
