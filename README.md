@@ -18,6 +18,7 @@
 
  - [x] **[How is a convolutional neural network able to learn invariant features?](https://qr.ae/TW1UAg)**
 
+</details>
 
 ## 4th April 2019
 
@@ -53,6 +54,7 @@
 
    :heavy_check_mark: **[Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0)**
 
+</details>
 
 #Papers :page_with_curl:
 
