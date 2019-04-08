@@ -91,3 +91,15 @@
  :heavy_check_mark: **[Ace Data Science Interview](https://courses.analyticsvidhya.com/courses/take/ace-data-science-interviews/lessons/5931762-overview-7-step-process)**
  
 </details>
+
+
+### 8th April 2019
+
+<details>
+  
+  - **[Feature Selection with sklearn and Pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)**
+  
+  - **[Introduction to Feature Selection methods with an example (or how to select the right variables?)](https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/)**
+  
+  - **[Your Guide to Master Hypothesis Testing in Statistics](https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/)**
+</details>
