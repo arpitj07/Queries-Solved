@@ -101,7 +101,7 @@
   
   :heavy_check_mark: **[Introduction to Feature Selection methods with an example (or how to select the right variables?)](https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/)**
   
-  - **[Your Guide to Master Hypothesis Testing in Statistics](https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/)**
+  :heavy_check_mark: **[Your Guide to Master Hypothesis Testing in Statistics](https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/)**
   
   - **[Feature Selection for Categorical Variables](https://www.kaggle.com/questions-and-answers/55494)**
 </details>
