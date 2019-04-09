@@ -105,9 +105,9 @@
   
    <details>
     
-   - **[Understanding The Central Limit Theorem](https://towardsdatascience.com/understanding-the-central-limit-theorem-642473c63ad8)**
+   :heavy_check_mark: **[Understanding The Central Limit Theorem](https://towardsdatascience.com/understanding-the-central-limit-theorem-642473c63ad8)**
    
-   - **[What is P-value?](https://towardsdatascience.com/what-is-a-p-value-b9e6c207247f)**
+   :heavy_check_mark: **[P-Value , Significant level , Hypothesis testing](https://medium.com/datadriveninvestor/p-value-significant-level-and-hypothesis-testing-4895524ec3f3)**
    
    - **[]()**
     
