@@ -109,7 +109,7 @@
    
    :heavy_check_mark: **[P-Value , Significant level , Hypothesis testing](https://medium.com/datadriveninvestor/p-value-significant-level-and-hypothesis-testing-4895524ec3f3)**
    
-   - **[]()**
+   - **[Hypothesis Testing in Machine Learning](https://www.datacamp.com/community/tutorials/hypothesis-testing-machine-learning)**
     
    </details>
   
