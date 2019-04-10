@@ -123,5 +123,5 @@
   
   :heavy_check_mark: **[Linear Discriminant Analysis for Machine Learning](https://machinelearningmastery.com/linear-discriminant-analysis-for-machine-learning/)**
   
-  - **[Ways to Detect and Remove the Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)**
+  :heavy_check_mark: **[Ways to Detect and Remove the Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)**
  </details>
