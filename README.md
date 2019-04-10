@@ -125,3 +125,8 @@
   
   :heavy_check_mark: **[Ways to Detect and Remove the Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)**
  </details>
+
+
+### 10th April 2019
+
+- **[6 Common Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)**
