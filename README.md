@@ -130,3 +130,12 @@
 ### 10th April 2019
 
 - **[6 Common Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)**
+
+
+### 13th April 2019
+
+- **[Practical Guide to Principal Component Analysis (PCA) in R & Python](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)**
+
+- **[Introduction to Online Machine Learning: Simplified](https://www.analyticsvidhya.com/blog/2015/01/introduction-online-machine-learning-simplified-2/)**
+
+- **[]()**
