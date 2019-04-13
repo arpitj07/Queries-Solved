@@ -134,8 +134,14 @@
 
 ### 13th April 2019
 
-- **[Practical Guide to Principal Component Analysis (PCA) in R & Python](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)**
+> **Dimenstion reduction**
 
-- **[Introduction to Online Machine Learning: Simplified](https://www.analyticsvidhya.com/blog/2015/01/introduction-online-machine-learning-simplified-2/)**
+>> <details>
 
-- **[]()**
+  - **[Practical Guide to Principal Component Analysis (PCA) in R & Python](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)**
+
+  - **[Introduction to Online Machine Learning: Simplified](https://www.analyticsvidhya.com/blog/2015/01/introduction-online-machine-learning-simplified-2/)**
+
+  - **[The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)**
+
+>> </details>
