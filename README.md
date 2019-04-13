@@ -137,11 +137,13 @@
 <details>
     <summary>Dimenstion reduction</summary>
  
-   **[Practical Guide to Principal Component Analysis (PCA) in R & Python](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)**
+   :heavy_check_mark: **[Practical Guide to Principal Component Analysis (PCA) in R & Python](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)**
 
    **[Introduction to Online Machine Learning: Simplified](https://www.analyticsvidhya.com/blog/2015/01/introduction-online-machine-learning-simplified-2/)**
 
    **[The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)**
 
    **[Online Learning Guide with Text Classification using Vowpal Wabbit (VW)](https://www.analyticsvidhya.com/blog/2018/01/online-learning-guide-text-classification-vowpal-wabbit-vw/)**
+   
+   :heavy_check_mark: **[What is the difference between t-score, z-score and F-score?](https://www.quora.com/What-is-the-difference-between-t-score-z-score-and-F-score)**
 </details>
