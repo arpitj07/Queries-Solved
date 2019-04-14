@@ -161,6 +161,9 @@
  
  :heavy_check_mark: **[Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)**
  
+ :heavy_check_mark: **[SMOTE implementation in Python](https://discuss.analyticsvidhya.com/t/smote-implementation-in-python/19740)**
+ 
+ - **[An Introduction to Independent Component Analysis: InfoMax and FastICA algorithms](https://towardsdatascience.com/paper-summary-an-introduction-to-independent-component-analysis-infomax-and-fastica-algorithms-7b44d18ab393)**
  </details>
  
  <details>
