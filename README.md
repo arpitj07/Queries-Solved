@@ -163,3 +163,9 @@
  
  </details>
  
+ <details>
+  <summary>Mathematics</summary>
+  
+  - **[A comprehensive beginners guide to Linear Algebra for Data Scientists](A comprehensive beginners guide to Linear Algebra for Data Scientists)**
+ <details>
+ 
