@@ -147,3 +147,19 @@
    
    :heavy_check_mark: **[What is the difference between t-score, z-score and F-score?](https://www.quora.com/What-is-the-difference-between-t-score-z-score-and-F-score)**
 </details>
+
+
+
+### 14th April 2019 
+
+<details>
+  <summary>Statistical Blogs</summary>
+ 
+ :heavy_check_mark: **[A simple explanation to understand Chi-Square Test Go to the profile of Wenyi YAN](https://medium.com/wenyi-yan/a-simple-explanation-to-understand-chi-square-test-1814fa261499)**
+ 
+ :heavy_check_mark: **[Importance of Distance Metrics in Machine Learning Modelling](https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d)**
+ 
+ :heavy_check_mark: **[Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)**
+ 
+ </details>
+ 
