@@ -163,12 +163,13 @@
  
  :heavy_check_mark: **[SMOTE implementation in Python](https://discuss.analyticsvidhya.com/t/smote-implementation-in-python/19740)**
  
- - **[An Introduction to Independent Component Analysis: InfoMax and FastICA algorithms](https://towardsdatascience.com/paper-summary-an-introduction-to-independent-component-analysis-infomax-and-fastica-algorithms-7b44d18ab393)**
+ - **[An Introduction to Independent Component Analysis: InfoMax and FastICA algorithms](https://towardsdatascience.com/paper-summary-an-introduction-to-independent-component-analysis-infomax-and-fastica-algorithms-7b44d18ab393)** | [**[Video](https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/)**]
  </details>
  
  <details>
   <summary>Mathematics</summary>
   
-  - **[A comprehensive beginners guide to Linear Algebra for Data Scientists](A comprehensive beginners guide to Linear Algebra for Data Scientists)**
+  - **[A comprehensive beginners guide to Linear Algebra for Data Scientists](https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/)**
+  
  <details>
  
