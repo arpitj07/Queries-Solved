@@ -159,7 +159,7 @@
  
  :heavy_check_mark: **[Importance of Distance Metrics in Machine Learning Modelling](https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d)**
  
- :heavy_check_mark: **[Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)** | **[Video](https://www.youtube.com/watch?v=mUMd_cKU0VM)**
+ :heavy_check_mark: **[Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)** | **[Video](https://www.youtube.com/watch?v=mUMd_cKU0VM)** | [**[StackOverflow](https://stackoverflow.com/questions/54693550/roc-auc-value-is-0)**]
  
  :heavy_check_mark: **[SMOTE implementation in Python](https://discuss.analyticsvidhya.com/t/smote-implementation-in-python/19740)**
  
