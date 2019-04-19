@@ -171,7 +171,7 @@
   
   - **[A comprehensive beginners guide to Linear Algebra for Data Scientists](https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/)**
   
- <details>
+ </details>
  
  
  ### 19th April 2019
