@@ -187,6 +187,6 @@
 
 <details>
   
-  :heavy_mark_check: **[Invisibility Cloak using Color Detection and Segmentation with OpenCV](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/)**
+  :heavy_check_mark: **[Invisibility Cloak using Color Detection and Segmentation with OpenCV](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/)**
   
 </details>
