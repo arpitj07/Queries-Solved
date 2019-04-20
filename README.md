@@ -182,3 +182,11 @@
   :heavy_check_mark: **[Machine Learning: Unsupervised Learning — Feature Transformation
 ](https://medium.com/machine-learning-bites/machine-learning-unsupervised-learning-feature-transformation-482adc937b6c)**
   </details>
+
+### 20th April 2019
+
+<details>
+  
+  :heavy_mark_check: **[Invisibility Cloak using Color Detection and Segmentation with OpenCV](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/)**
+  
+</details>
