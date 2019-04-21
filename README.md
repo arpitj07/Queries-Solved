@@ -190,3 +190,10 @@
   :heavy_check_mark: **[Invisibility Cloak using Color Detection and Segmentation with OpenCV](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/)**
   
 </details>
+
+
+### 21th April 2019
+
+<details>
+  
+ :heavy_check_mark: **[How to use ConfigParser in Python](https://www.pythonforbeginners.com/code-snippets-source-code/how-to-use-configparser-in-python)** | [**[VIDEO](https://www.youtube.com/watch?v=HH9L9WFMfnE)**]
