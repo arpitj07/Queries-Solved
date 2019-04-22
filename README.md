@@ -129,8 +129,10 @@
 
 ### 10th April 2019
 
+<details>
+  
 - **[6 Common Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)**
-
+</details>
 
 ### 13th April 2019
 
@@ -195,5 +197,16 @@
 ### 21th April 2019
 
 <details>
+  <summary>CONFIG</summary>
   
  :heavy_check_mark: **[How to use ConfigParser in Python](https://www.pythonforbeginners.com/code-snippets-source-code/how-to-use-configparser-in-python)** | [**[VIDEO](https://www.youtube.com/watch?v=HH9L9WFMfnE)**]
+
+</details>
+
+### 22nd April 2019
+
+<details>
+  <summary>Pooling</summary>
+  
+  :heavy_check_mark: **[A Gentle Introduction to Pooling Layers for Convolutional Neural Networks](https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/)**
+ </details> 
