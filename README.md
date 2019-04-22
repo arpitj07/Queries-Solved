@@ -210,3 +210,9 @@
   
   :heavy_check_mark: **[A Gentle Introduction to Pooling Layers for Convolutional Neural Networks](https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/)**
  </details> 
+
+### 23rd April 2019
+
+|         <details>                   |         <details>              |
+|  <summary>Probability</summary>     | <summary>probability</summary> |
+  
