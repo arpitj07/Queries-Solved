@@ -219,4 +219,5 @@
                           
  :heavy_check_mark: **[Basics of Probability for Data Science explained with examples](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/?utm_source=blog&utm_medium=6ProbabilityDistributionsarticle)**
 
+[] **[What is the difference and relationship between the binomial and Bernoulli distributions?](https://math.stackexchange.com/questions/838107/what-is-the-difference-and-relationship-between-the-binomial-and-bernoulli-distr)**
 </details>
