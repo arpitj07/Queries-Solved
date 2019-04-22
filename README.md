@@ -213,10 +213,10 @@
 
 ### 23rd April 2019
 
-|         <details>                   | 
+<details> 
   
-  **[6 Common Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)**  
-  </details>                         
+ :heavy_check_mark: **[6 Common Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)**  
+                          
+ :heavy_check_mark: **[Basics of Probability for Data Science explained with examples](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/?utm_source=blog&utm_medium=6ProbabilityDistributionsarticle)**
 
-
-**[Basics of Probability for Data Science explained with examples](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/?utm_source=blog&utm_medium=6ProbabilityDistributionsarticle)**
+</details>
