@@ -221,3 +221,21 @@
 
 [] **[What is the difference and relationship between the binomial and Bernoulli distributions?](https://math.stackexchange.com/questions/838107/what-is-the-difference-and-relationship-between-the-binomial-and-bernoulli-distr)**
 </details>
+
+### 25th April 2019
+
+<details>
+  <summary>Ensemble</summary> 
+  
+  :heavy_check_mark: **[A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)**
+  
+  :heavy_check_mark: **[Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)**
+  
+  </details>
+  
+  
+  <details>
+  <summary>Online Learning</summary>
+  
+  [ ] **[Data Streams and Online Machine Learning in Python](https://medium.com/analytics-vidhya/data-streams-and-online-machine-learning-in-python-a382e9e8d06a)**
+  </details>
