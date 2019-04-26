@@ -239,3 +239,11 @@
   
   [ ] **[Data Streams and Online Machine Learning in Python](https://medium.com/analytics-vidhya/data-streams-and-online-machine-learning-in-python-a382e9e8d06a)**
   </details>
+
+### 26th April 2019
+
+<details>
+  <summary>Object tracking</summary>
+  
+:heavy_check_mark: **[Object Tracking](https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/)**
+</details>
