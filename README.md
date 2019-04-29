@@ -247,3 +247,19 @@
   
 :heavy_check_mark: **[Object Tracking](https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/)**
 </details>
+
+
+### 29th April 2019
+
+<details>
+  <summary>Support Vector Machine</summary>
+ 
+ - [] **[A Quick Guide to Boosting in ML](https://medium.com/greyatom/a-quick-guide-to-boosting-in-ml-acf7c1585cb5)**
+ 
+ - [] **[Curse of Dimensionality](https://towardsdatascience.com/curse-of-dimensionality-2092410f3d27)**
+ 
+ - [] **[Support Vector Machine: Complete Theory of Support Vectors](https://towardsdatascience.com/understanding-support-vector-machine-part-1-lagrange-multipliers-5c24a52ffc5e)**
+ 
+ - [] **[Support Vector Machine: Kernel Trick; Mercer’s Theorem](https://towardsdatascience.com/understanding-support-vector-machine-part-2-kernel-trick-mercers-theorem-e1e6848c6c4d)**
+ </details>
+ 
