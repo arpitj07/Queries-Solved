@@ -288,5 +288,11 @@
   <details>
   <summary>DATA SCIENCE WORKFLOW</summary>
   
-  :heavy_check_mark: **[]()**
+  :heavy_check_mark: **[3 Tips to Improving Your Data Science Workflow](https://towardsdatascience.com/3-tips-to-improving-your-data-science-workflow-71a6fb8e6f19)**
+  
+  :heavy_check_mark: **[What is the workflow or process of a data scientist? What tools do they use?](https://qr.ae/TWIhFL)**
+  
+  :heavy_check_mark: **[Creating Interactive Animation for Parameter Optimisation using Plot.ly](https://towardsdatascience.com/creating-interactive-animation-for-parameter-optimisation-using-plot-ly-8136b2997db)**
+  
+  :heavy_check_mark: **[The Simplest & Cleanest Method for Tracking a For Loop’s Progress and Expected Run Time in Python Notebooks](https://towardsdatascience.com/the-simplest-cleanest-method-for-tracking-a-for-loops-progress-and-expected-run-time-in-python-972675392b3)**
   </details>
