@@ -269,10 +269,24 @@
  <details>
   <summary>Boosting</summary>
   
-  [x] **[Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)**
+  :heavy_check_mark: **[Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)**
   
   [x] **[Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)**
   
-  [x] **[]()**
+  </details>
   
+  
+  ### 1st May 2019
+  
+  <details>
+  <summary>DBSCAN</summary>
+  
+  :heavy_check_mark: **[How DBSCAN works and why should we use it?](https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80)**
+  
+  </details>
+  
+  <details>
+  <summary>DATA SCIENCE WORKFLOW</summary>
+  
+  :heavy_check_mark: **[]()**
   </details>
