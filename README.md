@@ -254,7 +254,7 @@
 <details>
   <summary>Support Vector Machine</summary>
  
- - [] **[A Quick Guide to Boosting in ML](https://medium.com/greyatom/a-quick-guide-to-boosting-in-ml-acf7c1585cb5)**
+ :heavy_check_mark: **[A Quick Guide to Boosting in ML](https://medium.com/greyatom/a-quick-guide-to-boosting-in-ml-acf7c1585cb5)**
  
  - [] **[Curse of Dimensionality](https://towardsdatascience.com/curse-of-dimensionality-2092410f3d27)**
  
@@ -263,3 +263,16 @@
  - [] **[Support Vector Machine: Kernel Trick; Mercer’s Theorem](https://towardsdatascience.com/understanding-support-vector-machine-part-2-kernel-trick-mercers-theorem-e1e6848c6c4d)**
  </details>
  
+ 
+ ### 30th April 2019
+ 
+ <details>
+  <summary>Boosting</summary>
+  
+  [x] **[Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)**
+  
+  [x] **[Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)**
+  
+  [x] **[]()**
+  
+  </details>
