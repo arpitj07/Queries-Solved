@@ -296,3 +296,15 @@
   
   :heavy_check_mark: **[The Simplest & Cleanest Method for Tracking a For Loop’s Progress and Expected Run Time in Python Notebooks](https://towardsdatascience.com/the-simplest-cleanest-method-for-tracking-a-for-loops-progress-and-expected-run-time-in-python-972675392b3)**
   </details>
+  
+  
+  ### 2nd May 2019
+  
+  <details>
+  <summary>Object Tracking</summary>
+  
+  :heavy_check_mark: **[Ball Tracking with OpenCV](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)**
+  
+  
+  
+  </details>
