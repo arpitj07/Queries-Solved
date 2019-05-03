@@ -304,7 +304,15 @@
   <summary>Object Tracking</summary>
   
   :heavy_check_mark: **[Ball Tracking with OpenCV](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)**
+  </details>
+
+  ### 3rd May 2019
   
+ <details>
+  <summary>Hu Moments</summary>
+  
+  :heavy_check_mark: **[Shape Matching using Hu Moments ](https://www.learnopencv.com/shape-matching-using-hu-moments-c-python/)**
   
   
   </details>
+
