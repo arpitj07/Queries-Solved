@@ -312,7 +312,15 @@
   <summary>Hu Moments</summary>
   
   :heavy_check_mark: **[Shape Matching using Hu Moments ](https://www.learnopencv.com/shape-matching-using-hu-moments-c-python/)**
-  
-  
+ 
   </details>
 
+  ### 4th May 2019
+  
+  <details>
+  <summary>OverDue</summary>
+  
+  - **[OpenCV Track Object Movement](https://www.pyimagesearch.com/2015/09/21/opencv-track-object-movement/)**
+  - **[OpenCV Face Recognition](https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/)**
+  - **[Liveness Detection with OpenCV](https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/)**
+  - **[The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)**
