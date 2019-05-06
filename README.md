@@ -325,7 +325,7 @@
   - **[Liveness Detection with OpenCV](https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/)**
   - **[The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)**
 
-
+</details>
 ### 6th May 2019
 
 <details>
