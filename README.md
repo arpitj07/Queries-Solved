@@ -326,13 +326,30 @@
   - **[The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)**
 
 </details>
+
+
 ### 6th May 2019
 
 <details>
   <summary>Bag of words</summary>
   
   **[Implementing Bag of Visual words for Object Recognition](https://kushalvyas.github.io/BOV.html)**
-  **[Getting started with reading Deep Learning Research papers: The Why and the How](https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0)**
-  **[Object detection with neural networks — a simple tutorial using keras](https://towardsdatascience.com/object-detection-with-neural-networks-a4e2c46b4491)**
+   **[Object detection with neural networks — a simple tutorial using keras](https://towardsdatascience.com/object-detection-with-neural-networks-a4e2c46b4491)**
   **[A gentle guide to deep learning object detection](https://www.pyimagesearch.com/2018/05/14/a-gentle-guide-to-deep-learning-object-detection/)**
  </details>
+
+### 10th May 2019
+
+<details>
+  <summary>Research Paper</summary>
+    
+ **[Getting started with reading Deep Learning Research papers: The Why and the How](https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0)**
+ 
+ </details>
+ 
+ <details>
+  <summary> Machine Learning </summary>
+  
+  **[Machine Learning Interview Questions – Q4 – Explain how a ROC curve works](http://machinelearningspecialist.com/machine-learning-interview-questions-q4-explain-how-a-roc-curve-works/)**
+  
+  </details>
