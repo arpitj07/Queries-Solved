@@ -353,3 +353,19 @@
   **[Machine Learning Interview Questions – Q4 – Explain how a ROC curve works](http://machinelearningspecialist.com/machine-learning-interview-questions-q4-explain-how-a-roc-curve-works/)**
   
   </details>
+  
+  
+  ### 13th May 2019  :star: :star:
+  
+  <details>
+  
+  <summary>Hypothesis Testing</summary>
+  
+:heavy_check_mark:  **[Understanding Hypothesis Tests: Significance Levels (Alpha) and P values in Statistics](https://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests-significance-levels-alpha-and-p-values-in-statistics)**
+  </details>
+  
+ <details>
+  
+  <summary>Confusion Matrix</summary>
+
+:heavy_check_mark: **[Accuracy, Recall, Precision, F-Score & Specificity, which to optimize on?](https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124)**
