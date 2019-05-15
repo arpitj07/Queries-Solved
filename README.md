@@ -378,4 +378,9 @@
   
   - **[Statistics: given a random sample (size n) drawn from a uniform distribution [0, d], how can we estimate d?](https://www.quora.com/Statistics-given-a-random-sample-size-n-drawn-from-a-uniform-distribution-0-d-how-can-we-estimate-d)**
   
+  - **[Given n samples from a uniform distribution [0, d], how to estimate d?](https://www.reddit.com/r/statistics/comments/55xw82/given_n_samples_from_a_uniform_distribution_0_d/?sort=confidence)**
+  
+  - **[Confidence Interval for maximum](https://en.wikipedia.org/wiki/Uniform_distribution_(continuous)#Confidence_interval_for_the_maximum)**
+  
+  
   </details>
