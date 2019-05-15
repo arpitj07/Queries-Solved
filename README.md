@@ -373,8 +373,8 @@
 
 ### 15th May 2019
 
-<details> :star:
-  <summary>interview questions</summary>
+<details>
+  <summary>:star: interview questions</summary>
   
   - **[Statistics: given a random sample (size n) drawn from a uniform distribution [0, d], how can we estimate d?](https://www.quora.com/Statistics-given-a-random-sample-size-n-drawn-from-a-uniform-distribution-0-d-how-can-we-estimate-d)**
   
