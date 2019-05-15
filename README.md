@@ -369,3 +369,13 @@
   <summary>Confusion Matrix</summary>
 
 :heavy_check_mark: **[Accuracy, Recall, Precision, F-Score & Specificity, which to optimize on?](https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124)**
+</details>
+
+### 15th May 2019
+
+<details> :star:
+  <summary>interview questions</summary>
+  
+  - **[Statistics: given a random sample (size n) drawn from a uniform distribution [0, d], how can we estimate d?](https://www.quora.com/Statistics-given-a-random-sample-size-n-drawn-from-a-uniform-distribution-0-d-how-can-we-estimate-d)**
+  
+  </details>
