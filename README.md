@@ -384,3 +384,10 @@
   
   
   </details>
+  
+  ### 18th May 2019
+  
+  <details>
+  <summary>R^2 </summary>
+  
+  - **[WHY IS INTERCEPT IMPORTANT IN REGRESSION ANALYSIS?](https://www.analyticsinsight.net/why-is-intercept-important-in-regression-analysis/)**
