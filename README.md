@@ -391,3 +391,7 @@
   <summary>R^2 </summary>
   
   - **[WHY IS INTERCEPT IMPORTANT IN REGRESSION ANALYSIS?](https://www.analyticsinsight.net/why-is-intercept-important-in-regression-analysis/)**
+  
+  <summary> P-value vs Alpha </summary>
+  
+  - **[What is the difference between an alpha level and a p-value? ](https://courses.washington.edu/p209s07/lecturenotes/Week%205_Monday%20overheads.pdf)**
