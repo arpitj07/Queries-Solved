@@ -395,3 +395,18 @@
   <summary> P-value vs Alpha </summary>
   
   - **[What is the difference between an alpha level and a p-value? ](https://courses.washington.edu/p209s07/lecturenotes/Week%205_Monday%20overheads.pdf)**
+
+
+### 21th May 2019
+
+<details>
+  <summary> Decision Tree </summary>
+  
+  - **[The Complete Guide to Decision Trees](https://towardsdatascience.com/the-complete-guide-to-decision-trees-28a4e3c7be14)**
+ </details>
+ 
+ <details>
+  <summary> Auto Encoders </summary>
+  
+  - **[Auto-Encoder: What Is It? And What Is It Used For? (Part 1)](https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726)**
+  </details>
