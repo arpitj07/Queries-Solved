@@ -395,7 +395,7 @@
   <summary> P-value vs Alpha </summary>
   
   - **[What is the difference between an alpha level and a p-value? ](https://courses.washington.edu/p209s07/lecturenotes/Week%205_Monday%20overheads.pdf)**
-
+</details>
 
 ### 21th May 2019
 
@@ -409,4 +409,14 @@
   <summary> Auto Encoders </summary>
   
   - **[Auto-Encoder: What Is It? And What Is It Used For? (Part 1)](https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726)**
+  </details>
+
+### 22nd May 2019
+
+<details>
+  <summary> Data Mining </summary>
+  
+  :heavy_check_mark: **[An Introduction to Data Mining](https://medium.com/@diegocasmo/an-introduction-to-data-mining-4d35f8da8d91)**
+  
+  :heavy_check_mark: **[What is Data mining](https://medium.com/@codelikeacat/what-is-data-mining-eb381f01ef2d)**
   </details>
