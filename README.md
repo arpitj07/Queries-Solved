@@ -420,3 +420,10 @@
   
   :heavy_check_mark: **[What is Data mining](https://medium.com/@codelikeacat/what-is-data-mining-eb381f01ef2d)**
   </details>
+  
+  <details>
+  
+  <summary> Decision Tree </summary>
+  
+  :heavy_check_mark: **[Classification and Regression Analysis with Decision Trees](https://towardsdatascience.com/https-medium-com-lorrli-classification-and-regression-analysis-with-decision-trees-c43cdbc58054)**
+  </details>
