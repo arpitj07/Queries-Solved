@@ -437,4 +437,12 @@
   :star: **[How exactly XGBoost Works?](https://medium.com/@pushkarmandot/how-exactly-xgboost-works-a320d9b8aeef)**
   
   :star: **[An End-to-End Guide to Understand the Math behind XGBoost](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)**
+  </details> 
+  
+  <details>
+  <summary> :star: ENTROPY</summary>
+  
+  :star: :star: **[what-is-entropy-and-why-information-gain-is-matter](https://medium.com/coinmonks/what-is-entropy-and-why-information-gain-is-matter-4e85d46d2f01)**
+  
   </details>
+  
