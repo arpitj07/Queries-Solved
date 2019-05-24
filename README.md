@@ -427,3 +427,13 @@
   
   :heavy_check_mark: **[Classification and Regression Analysis with Decision Trees](https://towardsdatascience.com/https-medium-com-lorrli-classification-and-regression-analysis-with-decision-trees-c43cdbc58054)**
   </details>
+  
+  
+ ### 24th May 2019 
+ 
+ <details>
+  <summary> XGBOOST </summary>
+  
+  :star: **[How exactly XGBoost Works?](https://medium.com/@pushkarmandot/how-exactly-xgboost-works-a320d9b8aeef)**
+  
+  </details>
