@@ -446,3 +446,10 @@
   
   </details>
   
+### 25th May 2019
+
+<details>
+  <summary> :star: :star: ASSOSIATION RULE </summary>
+ 
+ :heavy_check_mark: **[Complete guide to Association Rules (1/2)](https://towardsdatascience.com/association-rules-2-aa9a77241654)** 
+</details> 
