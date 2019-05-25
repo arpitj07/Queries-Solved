@@ -459,3 +459,11 @@
   
   :heavy_check_mark: **[Speed Up your Algorithms Part 1 — PyTorch](https://towardsdatascience.com/speed-up-your-algorithms-part-1-pytorch-56d8a4ae7051)**
   </details>
+  
+  
+  <details>
+  
+  <summary> :star: :star: Noise in DATA </summary>
+  
+  :heavy_check_mark: **[How to use Noise to your advantage ?](https://towardsdatascience.com/how-to-use-noise-to-your-advantage-5301071d9dc3)**
+  </details>
