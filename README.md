@@ -467,3 +467,13 @@
   
   :heavy_check_mark: **[How to use Noise to your advantage ?](https://towardsdatascience.com/how-to-use-noise-to-your-advantage-5301071d9dc3)**
   </details>
+
+
+### 26th May 2019
+
+<details> 
+  <summary> :star: :star: IMAGE PROCESSING </summary> 
+  
+  :heavy_check_mark: **[Image Pre-processing](https://towardsdatascience.com/image-pre-processing-c1aec0be3edf)**
+  
+  </details>
