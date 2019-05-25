@@ -453,3 +453,9 @@
  
  :heavy_check_mark: **[Complete guide to Association Rules (1/2)](https://towardsdatascience.com/association-rules-2-aa9a77241654)** 
 </details> 
+
+<details>
+  <summary> Pytorch CUda </summary>
+  
+  :heavy_check_mark: **[Speed Up your Algorithms Part 1 — PyTorch](https://towardsdatascience.com/speed-up-your-algorithms-part-1-pytorch-56d8a4ae7051)**
+  </details>
