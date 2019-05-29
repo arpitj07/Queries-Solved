@@ -477,3 +477,11 @@
   :heavy_check_mark: **[Image Pre-processing](https://towardsdatascience.com/image-pre-processing-c1aec0be3edf)**
   
   </details>
+  
+ ### 29th May 2019
+ 
+ <details>
+  <summary> Image Classification </summary>
+  
+  :heavy_check_mark: **[Image Classification with Convolutional Neural Networks](https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8)**
+  </details>
