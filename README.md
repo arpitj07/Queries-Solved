@@ -485,3 +485,15 @@
   
   :heavy_check_mark: **[Image Classification with Convolutional Neural Networks](https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8)**
   </details>
+
+
+### 30th May 2019
+
+<details>
+  <summary> Support Vector Machine </summary>
+  
+  :heavy_check_mark: **[Chapter 2 : SVM (Support Vector Machine) — Theory](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)**
+  
+  :heavy_check_mark: **[Chapter 2 : SVM (Support Vector Machine) — Coding](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-coding-edd8f1cf8f2d)**
+  
+  </details>
